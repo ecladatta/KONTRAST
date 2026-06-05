@@ -8,9 +8,7 @@ Wikipedia and Wikidata are central open knowledge resources for search, question
 
 The repository supports the paper’s task of **modality-level inconsistency detection**: identifying and categorizing mismatches between table-grounded answers and knowledge graph answers surfaced through Text-to-SPARQL generation.
 
-
-<img width="1913" height="916" alt="image" src="https://github.com/user-attachments/assets/91206286-2658-4cca-be15-70c45aa029d0" />
-
+<img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/252aff24-3989-48e4-a22e-d863a644de8d" />
 
 
 
