@@ -52,5 +52,18 @@ Start with the root workflow above, then follow the directories in order:
 4. [`LLM_as_a_Judge/`](LLM_as_a_Judge/) explains how table answers and KG answers are compared.
 5. [`Modality_inconsistency_labelled/`](Modality_inconsistency_labelled/) contains the final taxonomy labels and statistics.
 
+## Citation
+
+```bibtex
+@inproceedings{wei2026kontrast,
+  author    = {Fanfu Wei and Thibault Ehrhart and Raphaël Troncy},
+  title     = {Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs},
+  booktitle = {Proceedings of the 25th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2026)},
+  address   = {Turin, Italy},
+  year      = {2026},
+  note      = {In press}
+}
+
+
 
 
