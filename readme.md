@@ -61,7 +61,6 @@ Start with the root workflow above, then follow the directories in order:
   booktitle = {Proceedings of the 25th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2026)},
   address   = {Turin, Italy},
   year      = {2026},
-  note      = {In press}
 }
 
 
