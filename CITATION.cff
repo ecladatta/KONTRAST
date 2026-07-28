@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use KONTRAST, please cite the associated EKAW 2026 paper."
+title: "KONTRAST"
+type: software
+repository-code: "https://github.com/ecladatta/KONTRAST"
+
+authors:
+  - given-names: Fanfu
+    family-names: Wei
+    affiliation: "EURECOM, France"
+    orcid: "https://orcid.org/0009-0008-4397-0492"
+  - given-names: Thibault
+    family-names: Ehrhart
+    affiliation: "EURECOM, France"
+    orcid: "https://orcid.org/0000-0003-1377-8279"
+  - given-names: Raphaël
+    family-names: Troncy
+    affiliation: "EURECOM, France"
+    orcid: "https://orcid.org/0000-0003-0457-1436"
+
+preferred-citation:
+  type: conference-paper
+  title: "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs"
+  authors:
+    - given-names: Fanfu
+      family-names: Wei
+      affiliation: "EURECOM, France"
+      orcid: "https://orcid.org/0009-0008-4397-0492"
+    - given-names: Thibault
+      family-names: Ehrhart
+      affiliation: "EURECOM, France"
+      orcid: "https://orcid.org/0000-0003-1377-8279"
+    - given-names: Raphaël
+      family-names: Troncy
+      affiliation: "EURECOM, France"
+      orcid: "https://orcid.org/0000-0003-0457-1436"
+  conference:
+    name: "25th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2026)"
+  year: 2026
+  status: in-press
