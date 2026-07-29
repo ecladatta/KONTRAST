@@ -60,8 +60,11 @@ Start with the root workflow above, then follow the directories in order:
   title     = {Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs},
   booktitle = {Proceedings of the 25th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2026)},
   address   = {Turin, Italy},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2607.25959v1}
 }
+```
+
 
 
 
